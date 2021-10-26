@@ -12,5 +12,29 @@
     <author>Author</author>
     <guid>http://djavicii.github.io/firstpost/</guid>
     <description><![CDATA[show love for Avicii int main(){ printf(&#34;We love avicii&#34;); return 0; } ]]></description>
+</item><item>
+    <title>Learn Magic of Computers</title>
+    <link>http://djavicii.github.io/2021-7-14-learn-magic-of-computers/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://djavicii.github.io/2021-7-14-learn-magic-of-computers/</guid>
+    <description><![CDATA[Study this and master everything you needed for embedded systems and computer architecture
+Basics You need to know  Comptia A+ Highly recommended to those who doesn&rsquo;t know anything about computers. Comptia Network+ Highly recommended to those who doesn&rsquo;t know anything about networking. C programming SQL What is kernels? More about Kernels what is software drivers? what is BIOS and UEFI? Common things in BIOS Why BIOS is important?  The principal job of a computer&rsquo;s BIOS is to govern the early stages of the startup process, ensuring that the operating system is correctly loaded into memory.]]></description>
+</item><item>
+    <title>Networking Basics</title>
+    <link>http://djavicii.github.io/2021-7-13-basics/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://djavicii.github.io/2021-7-13-basics/</guid>
+    <description><![CDATA[Topics Coverd:  Netwrok Programming and C OSI and TCP/IP The Internet Protocol IPv4 and IPv6 Domain Names Internet Protocol routing Network Address translation some more Topics   The internet and C millions of desktops, laptops,routers and servers conneted to the internet and have been for decades. the new Internet of Things(IoT) trend atracting peoples to use and learn Networking. Almost every network stack is programmed in C. This is true for Windows, Linux, and macOS.]]></description>
+</item><item>
+    <title>Socket Programming 101</title>
+    <link>http://djavicii.github.io/2021-7-17-socket-programming-101/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://djavicii.github.io/2021-7-17-socket-programming-101/</guid>
+    <description><![CDATA[What is socket?   Socket is one ednpoint of a communication link between systems. Your application sends and receives all of its network data through a socket.
+  There are few diffrent socket application programming interfaces (APIs).
+ Berkeley Sockets  released in 1983 with 4.3BSD Unix. The terms Berkeley sockets, BSD sockets, Unix sockets, and Portable Operating System Interface (POSIX) sockets are often used interchangeably If you&rsquo;re using Linux or macOS, then your operating system provides a proper implementation of Berkeley sockets.]]></description>
 </item></channel>
 </rss>
