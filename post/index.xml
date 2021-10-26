@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on djavicii</title>
+    <link>http://djavicii.github.io/post/</link>
+    <description>Recent content in Posts on djavicii</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Oct 2021 00:08:46 +0530</lastBuildDate>
+    
+	<atom:link href="http://djavicii.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>wake me up</title>
+      <link>http://djavicii.github.io/post/post/</link>
+      <pubDate>Tue, 26 Oct 2021 00:08:46 +0530</pubDate>
+      
+      <guid>http://djavicii.github.io/post/post/</guid>
+      <description>this c
+int main(){ printf(&amp;#34;Hello world&amp;#34;); return 0; } ```</description>
+    </item>
+    
+  </channel>
+</rss>
